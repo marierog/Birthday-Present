@@ -1,0 +1,20 @@
+body{
+	border: 20px solid #bdc3c7;
+	padding: 20px;
+	margin:20px 20% 20px 20%;
+	text-align: center;
+}
+
+div{
+	margin-top: 200px;
+	margin-bottom: 100px;
+	text-align: right;
+}
+
+.hidden{
+	color: white;
+}
+
+a:hover{
+	color: grey;
+}

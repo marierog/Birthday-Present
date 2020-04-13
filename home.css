@@ -1,0 +1,9 @@
+body{
+	border: 20px solid #bdc3c7;
+	padding: 20px;
+	margin:20px 40% 20px 40%;
+}
+
+.hidden{
+	display: none;
+}
